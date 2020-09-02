@@ -1,16 +1,28 @@
 {
   "main": {
-    "id": "54c6242d7d7c7358",
+    "id": "4fe3b681536c1284",
     "type": "split",
     "children": [
       {
-        "id": "ee76f6ba491b7d2d",
+        "id": "6744a26e7ba45c23",
         "type": "leaf",
+        "dimension": 29.7279792746114,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "bede71ed6712cbce",
+        "type": "leaf",
+        "dimension": 70.2720207253886,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目管理.md",
+            "file": "项目整合管理.md",
             "mode": "preview"
           }
         }
@@ -19,15 +31,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d1516ca851377cc6",
+    "id": "9d517166898ae164",
     "type": "split",
     "children": [
       {
-        "id": "7089b9255cbad7fe",
+        "id": "1e4f8d168fe6f321",
         "type": "tabs",
         "children": [
           {
-            "id": "1dda35c6712909d0",
+            "id": "48c6e0fee432ef61",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +47,7 @@
             }
           },
           {
-            "id": "38214b42897324bc",
+            "id": "0083133e2022706e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,20 +61,20 @@
     "width": 300
   },
   "right": {
-    "id": "ef4983a9880207c1",
+    "id": "66009137e62ec908",
     "type": "split",
     "children": [
       {
-        "id": "76adf9d7c35808d9",
+        "id": "096f158113f81c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "7279f7a64c4756e4",
+            "id": "cece2379721d4570",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目管理.md"
+                "file": "项目整合管理.md"
               }
             }
           }
@@ -74,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "项目整合管理.md",
     "项目管理.md",
     "项目成本管理.md",
-    "Untitled.md",
     "项目范围管理.md",
     "项目进度管理.md"
   ]
