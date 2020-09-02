@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "54c6242d7d7c7358",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e89050a8fdb59a4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "项目管理.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1516ca851377cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7089b9255cbad7fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dda35c6712909d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38214b42897324bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef4983a9880207c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "76adf9d7c35808d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7279f7a64c4756e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目管理.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
