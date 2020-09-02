@@ -10,6 +10,18 @@
     "markdown-importer": true,
     "word-count": true
   },
-  "promptDelete": false,
-  "attachmentFolderPath": "Untitled"
+  "promptDelete": true,
+  "attachmentFolderPath": "Untitled",
+  "alwaysUpdateLinks": true,
+  "trashOption": "none",
+  "hotkeys": {
+    "workspace:toggle-pin": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "s"
+      }
+    ]
+  }
 }

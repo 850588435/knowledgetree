@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6744a26e7ba45c23",
+        "id": "6ea11cde86fbde1b",
         "type": "leaf",
-        "dimension": 29.7279792746114,
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "bede71ed6712cbce",
-        "type": "leaf",
-        "dimension": 70.2720207253886,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目整合管理.md",
+            "file": "项目管理/6 项目进度管理/6.2 定义活动.md",
             "mode": "preview"
           }
         }
@@ -74,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目整合管理.md"
+                "file": "项目管理/6 项目进度管理/6.2 定义活动.md"
               }
             }
           }
@@ -86,10 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "项目整合管理.md",
-    "项目管理.md",
-    "项目成本管理.md",
-    "项目范围管理.md",
-    "项目进度管理.md"
+    "6.2 定义活动.md",
+    "项目管理/6 项目进度管理/6.1 规划进度管理.md",
+    "项目管理/6 项目进度管理/过程：规划进度管理.png",
+    "项目管理/5 项目范围管理/5.6 确认范围.md",
+    "项目管理/项目成本管理.md"
   ]
 }
