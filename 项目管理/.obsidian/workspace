@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1e89050a8fdb59a4",
+        "id": "ee76f6ba491b7d2d",
         "type": "leaf",
         "active": true,
         "state": {
@@ -74,6 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md"
+    "项目管理.md",
+    "项目成本管理.md",
+    "Untitled.md",
+    "项目范围管理.md",
+    "项目进度管理.md"
   ]
 }
