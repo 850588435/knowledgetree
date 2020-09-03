@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6ea11cde86fbde1b",
+        "id": "abfeaa58012c230b",
         "type": "leaf",
         "active": true,
         "state": {
@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "66009137e62ec908",
@@ -74,10 +75,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "6.2 定义活动.md",
+    "项目管理/6 项目进度管理/6.2 定义活动.md",
+    "项目管理/5 项目范围管理/5.3 定义范围.md",
     "项目管理/6 项目进度管理/6.1 规划进度管理.md",
-    "项目管理/6 项目进度管理/过程：规划进度管理.png",
     "项目管理/5 项目范围管理/5.6 确认范围.md",
-    "项目管理/项目成本管理.md"
+    "项目管理/5 项目范围管理/5.5 控制范围.md"
   ]
 }
