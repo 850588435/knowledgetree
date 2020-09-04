@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "abfeaa58012c230b",
+        "id": "9a4b228b4a5804d9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "项目管理/6 项目进度管理/6.2 定义活动.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,12 +39,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "66009137e62ec908",
@@ -62,9 +59,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "项目管理/6 项目进度管理/6.2 定义活动.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -75,10 +70,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "项目管理/6 项目进度管理/6.2 定义活动.md",
-    "项目管理/5 项目范围管理/5.3 定义范围.md",
-    "项目管理/6 项目进度管理/6.1 规划进度管理.md",
-    "项目管理/5 项目范围管理/5.6 确认范围.md",
-    "项目管理/5 项目范围管理/5.5 控制范围.md"
+    "项目管理/6 项目进度管理/6.3 排列活动顺序.md",
+    "6.5 制定进度计划.md",
+    "项目管理/6 项目进度管理/6.4 估算活动持续时间.md",
+    "Pasted image 1.png",
+    "MECE原则.md"
   ]
 }
