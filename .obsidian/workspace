@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a4b228b4a5804d9",
+        "id": "9283e8de7259e231",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "项目管理/7 项目成本管理/7.2 估算成本.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -39,8 +42,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -59,7 +61,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "项目管理/7 项目成本管理/7.2 估算成本.md"
+              }
             }
           }
         ]
@@ -70,10 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "项目管理/6 项目进度管理/6.3 排列活动顺序.md",
-    "6.5 制定进度计划.md",
+    "项目管理/7 项目成本管理/7.2 估算成本.md",
     "项目管理/6 项目进度管理/6.4 估算活动持续时间.md",
-    "Pasted image 1.png",
-    "MECE原则.md"
+    "项目管理/6 项目进度管理/6.5 制定进度计划.md",
+    "项目管理/6 项目进度管理/6.6 控制进度.md",
+    "边际效应.md"
   ]
 }
